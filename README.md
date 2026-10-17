@@ -41,7 +41,7 @@ Halo! Saya **Mahardika Syafa Rizki**, web developer sekaligus engineer bot Whats
 
 | Proyek | Deskripsi |
 | ------ | --------- |
-| [🌐 Website Portofolio](https://dikzzproject.github.io/NAMA-REPOSITORI/) | Portofolio pribadi yang interaktif, modern, dan responsif dengan HTML, CSS, dan JavaScript. |
+| [🌐 Website Portofolio](https://dikzzproject.github.io/dikz-project/) | Portofolio pribadi yang interaktif, modern, dan responsif dengan HTML, CSS, dan JavaScript. |
 
 > Ganti `NAMA-REPOSITORI` dengan nama repositori portofolio Anda, lalu tambahkan baris proyek lain di tabel ini.
 
