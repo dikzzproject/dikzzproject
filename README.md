@@ -17,7 +17,7 @@
 
 ## 👋 Tentang Saya
 
-Halo! Saya **Mahardika Syafa Rizki**, web developer sekaligus engineer bot WhatsApp. Saya suka membuat hal yang rapi, cepat, dan benar-benar berguna, mulai dari website sederhana sampai bot yang mengotomatisasi pekerjaan sehari-hari.
+Halo! Saya **Dikz Project**, web developer sekaligus engineer bot WhatsApp. Saya suka membuat hal yang rapi, cepat, dan benar-benar berguna, mulai dari website sederhana sampai bot yang mengotomatisasi pekerjaan sehari-hari.
 
 - 🌐 Membuat **website sederhana** yang bersih dan responsif
 - 🤖 Membuat **bot WhatsApp dan Discord**
