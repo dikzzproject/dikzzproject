@@ -1,6 +1,6 @@
 <!-- Header gelombang dengan gradasi cyan ke biru (mengikuti warna logo) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0B78E3&height=200&section=header&text=Mahardika%20Syafa%20Rizki&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DikzProject&descAlignY=58&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0B78E3&height=200&section=header&text=Dikz%Project&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DikzProject&descAlignY=58&descSize=20" alt="Header" />
 </p>
 
 <!-- Teks mengetik animasi -->
