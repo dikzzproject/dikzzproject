@@ -43,6 +43,7 @@ Halo! Saya **Dikz Project**, web developer sekaligus engineer bot WhatsApp. Saya
 | ------ | --------- |
 | [ 🌐 Website Portofolio ](https://github.com/dikzzproject/dikz-project/) | Portofolio pribadi yang interaktif, modern, dan responsif dengan HTML, CSS, dan JavaScript. |
 | [ 🤖 DikzBot ](https://github.com/dikzzproject/bot-whatsapp) | Project bot whatsapp yang sedang tim saya kembangkan sekarang. |
+| [ 🤖 Arona Bot ](https://github.com/dikzzproject/arona-bot) | Project Bot pribadi saya. |
 
 <!-- Ganti `NAMA-REPOSITORI` dengan nama repositori portofolio Anda, lalu tambahkan baris proyek lain di tabel ini. -->
 
